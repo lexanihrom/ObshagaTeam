@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string-array name="listArray">
+    <item>Number 1</item>
+    <item>Number 2</item>
+    <item>Number 3</item>
+    <item>Number 4</item>
+	<item>Number 11</item>
+    <item>Number 21</item>
+    <item>Number 31</item>
+    <item>Number 41</item>
+	<item>Number 12</item>
+   	<item>Number 22</item>
+    <item>Number 32</item>
+    <item>Number 43</item>
+</string-array>
+</resources>
